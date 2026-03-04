@@ -3,6 +3,7 @@
 A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 
 ![Quiz App Main Screen](./screenshots/quiz-main.png)
+
 *Main quiz interface with question and answers*
 
 ## 🚀 Live Demo
