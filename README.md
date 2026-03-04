@@ -2,9 +2,12 @@
 
 A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 
-![Quiz App Main Screen](./screenshots/quiz-main.png)
-
-*Main quiz interface with question and answers*
+### Quiz App Main Screen
+<div align="center">
+  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="600px">
+  <br>
+  <em>Main quiz interface with question and answers</em>
+</div>
 
 ## 🚀 Live Demo
 [View Live Demo](https://eskandr5.github.io/quiz-app)
@@ -19,22 +22,24 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 
 ## 🖼️ Screenshots
 
+### Question Screen
+## 🖼️ Screenshots
+
+### Question Screen
 <div align="center">
   <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="400px">
   <br>
   <em>Main quiz interface</em>
 </div>
 
-<br>
-
+### Answer Feedback
 <div align="center">
   <img src="./screenshots/quiz-feedback.png" alt="Answer Feedback" width="400px">
   <br>
   <em>Visual feedback: correct (green) and incorrect (red) answers</em>
 </div>
 
-<br>
-
+### Final Result
 <div align="center">
   <img src="./screenshots/quiz-result.png" alt="Final Result" width="400px">
   <br>
