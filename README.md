@@ -19,20 +19,27 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 
 ## 🖼️ Screenshots
 
-### Question Screen
-![Question Screen](./screenshots/quiz-main.png)
+<div align="center">
+  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="80%">
+  <br>
+  <em>Main quiz interface showing question and answer options</em>
+</div>
 
-*Default view showing a question with four answer options*
+<br>
 
-### Answer Feedback
-![Answer Feedback](./screenshots/quiz-feedback.png)
+<div align="center">
+  <img src="./screenshots/quiz-feedback.png" alt="Answer Feedback" width="80%">
+  <br>
+  <em>Visual feedback: correct (green) and incorrect (red) answers</em>
+</div>
 
-*Visual feedback for answers: correct (green) and incorrect (red)*
+<br>
 
-### Final Result
-![Final Score](./screenshots/quiz-result.png)
-
-*Final score display at the end of the quiz*
+<div align="center">
+  <img src="./screenshots/quiz-result.png" alt="Final Result" width="80%">
+  <br>
+  <em>Final score display at the end of the quiz</em>
+</div>
 
 ## 🛠️ Technologies Used
 - HTML5
