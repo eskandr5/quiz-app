@@ -20,7 +20,7 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="200px">
+  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="400px">
   <br>
   <em>Main quiz interface</em>
 </div>
@@ -28,7 +28,7 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 <br>
 
 <div align="center">
-  <img src="./screenshots/quiz-feedback.png" alt="Answer Feedback" width="80%">
+  <img src="./screenshots/quiz-feedback.png" alt="Answer Feedback" width="400px">
   <br>
   <em>Visual feedback: correct (green) and incorrect (red) answers</em>
 </div>
@@ -36,7 +36,7 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 <br>
 
 <div align="center">
-  <img src="./screenshots/quiz-result.png" alt="Final Result" width="80%">
+  <img src="./screenshots/quiz-result.png" alt="Final Result" width="400px">
   <br>
   <em>Final score display at the end of the quiz</em>
 </div>
