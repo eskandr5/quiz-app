@@ -20,9 +20,9 @@ A clean and interactive quiz application built with HTML, CSS, and JavaScript.
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="80%">
+  <img src="./screenshots/quiz-main.png" alt="Main Quiz Screen" width="200px">
   <br>
-  <em>Main quiz interface showing question and answer options</em>
+  <em>Main quiz interface</em>
 </div>
 
 <br>
